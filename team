@@ -98,7 +98,7 @@ Vincenzo is an open-source software enthusiast. He has over fifteen years of exp
 
 <div class="team">
 <div>
-<a href="http://monetas.net/wp-content/uploads/filip_gospodinov1.png"><img src="http://monetas.net/wp-content/uploads/filip_gospodinov1.png" alt="filip_gospodinov" width="120" height="120" class="alignnone size-full wp-image-2724" /></a>
+<img src="http://monetas.net/wp-content/uploads/filip_gospodinov1.png" />
 </div>
 <h3>
 <a href="mailto:filip@monetas.net" target="_blank">Filip Gospodinov</a>
@@ -109,7 +109,7 @@ Filip received his BSc and MSc degrees in Electrical Engineering at the ETH Zuri
 
 <div class="team">
 <div>
-<a href="http://monetas.net/wp-content/uploads/barry_kumnick.png"><img src="http://monetas.net/wp-content/uploads/barry_kumnick.png" alt="barry_kumnick" width="120" height="120" class="alignnone size-full wp-image-2720" /></a>
+<img src="http://monetas.net/wp-content/uploads/barry_kumnick.png" />
 </div>
 <h3>
 <a href="mailto:barry@monetas.net" target="_blank">Barry Kumnick</a>
@@ -120,7 +120,7 @@ Barry Kumnick is a software architect and engineer with thirty years of experien
 
 <div class="team">
 <div>
-<a href="http://monetas.net/wp-content/uploads/nicola_larosa.png"><img src="http://monetas.net/wp-content/uploads/nicola_larosa.png" alt="nicola_larosa" width="120" height="120" class="alignnone size-full wp-image-2721" /></a>
+<img src="http://monetas.net/wp-content/uploads/nicola_larosa.png" />
 </div>
 <h3>
 <a href="mailto:nicola@monetas.net" target="_blank">Nicola Larosa</a>
@@ -131,7 +131,7 @@ Nicola designs and develops software using mainly free/libre open-source softwar
 
 <div class="team">
 <div>
-<a href="http://monetas.net/wp-content/uploads/justus_ranvier.png"><img src="http://monetas.net/wp-content/uploads/justus_ranvier.png" alt="justus_ranvier" width="120" height="120" class="alignnone size-full wp-image-2722" /></a>
+<img src="http://monetas.net/wp-content/uploads/justus_ranvier.png" />
 </div>
 <h3>
 <a href="mailto:justus@monetas.net" target="_blank">Justus Ranvier</a>
@@ -142,7 +142,7 @@ Justus is a Bitcoin expert and enthusiast and co-organizer of the Austin Bitcoin
 
 <div class="team">
 <div>
-<a href="http://monetas.net/wp-content/uploads/guilherme_salgado.png"><img src="http://monetas.net/wp-content/uploads/guilherme_salgado.png" alt="guilherme_salgado" width="120" height="120" class="alignnone size-full wp-image-2723" /></a>
+<img src="http://monetas.net/wp-content/uploads/guilherme_salgado.png" />
 </div>
 <h3>
 <a href="mailto:guilherme@monetas.net" target="_blank">Guilherme Salgado</a>
@@ -161,8 +161,6 @@ Marko Bencun
 </h3>
 Marko holds a Master's degree in Computer Science from the ETHZ. He is an active open source contributor and enjoys writing code that is secure, high level and efficient. Marko loves learning about new technologies and concepts that twist his mind. He has been a fan of Bitcoin and decentralized protocols since early 2011.
 </div>
-
-
 
 <div class="team">
 <div>
